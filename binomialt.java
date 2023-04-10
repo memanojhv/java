@@ -24,10 +24,6 @@ public class binomialt {
         int n  = sc.nextInt();
         int r  = sc.nextInt();
         binomialt(n, r);
-        
-
-
-
         System.out.println(binomialt(n, r));
 
     }
